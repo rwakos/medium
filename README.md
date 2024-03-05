@@ -1,2 +1,2 @@
 # medium
-For all medium posts
+For all medium posts published
